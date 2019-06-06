@@ -6,14 +6,14 @@
 
 
 
-![](header.png)
 
 
 ## Usage example
 
 To use program, you would enter a secrect message, then a secet key word tp encypt the message. 
 
-
+![](Capture1.PNG)
+![](Capture2.PNG)
 
 ## Release History
 
